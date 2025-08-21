@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Snake",
+  "description": "A classic snake game with a cryptocurrency theme. Eat crypto coins to grow your snake and increase your score, but be careful not to crash! The game gets faster as you score more points.",
+  "requestFramePermissions": []
+}
